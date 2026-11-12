@@ -3,8 +3,8 @@
 Copy the matching links into the actual Canvas checkpoint; this file is not a Canvas submission.
 
 - Portfolio repository: https://github.com/aka223-ui/career-fieldnotes-is117
-- Deployed website: GitHub Pages root, after publication is verified.
-- Published documentation: GitHub Pages /docs/, after publication is verified.
+- Deployed website: https://aka223-ui.github.io/career-fieldnotes-is117/
+- Published documentation: https://aka223-ui.github.io/career-fieldnotes-is117/docs/
 - Prior private deployment: https://career-fieldnotes-is117.astutewaffle1.chatgpt.site (owner-private; not suitable as the sole grader link).
 - Keep using this repository and these records for subsequent checkpoints.
 - Submit full personal reflection and personal eligibility circumstances privately in Canvas.

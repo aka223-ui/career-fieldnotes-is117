@@ -4,7 +4,7 @@ Individual portfolio career research owned by **aka223-ui**. Professional focus:
 
 ## URLs
 - [Repository](https://github.com/aka223-ui/career-fieldnotes-is117)
-- Published website and documentation URLs: pending Pages activation and verification; see [submission checklist](docs/submission.md).
+- [Published website](https://aka223-ui.github.io/career-fieldnotes-is117/) · [Published documentation](https://aka223-ui.github.io/career-fieldnotes-is117/docs/). Pages activated; production verification is recorded in the worklog.
 - [Prior private deployment](https://career-fieldnotes-is117.astutewaffle1.chatgpt.site): owner-private, not the sole submission link.
 
 ## Research and evidence
@@ -22,7 +22,7 @@ Reviewers: read the research, open an employer source, trace a finding into a de
 Full reflection and personal eligibility circumstances belong privately in Canvas. Public records discuss professional goals, sources and portfolio evidence. Earlier Git history still contains previously public personal statements; current-file removal does not erase history. ChatGPT drafted and revised code/docs and performed the checks described in the worklog; student accuracy review and reviewer retry remain pending.
 
 ## Run locally
-Open index.html, or run `python3 -m http.server 8000` and visit http://localhost:8000. The documentation HTML is generated from docs/index.md using Python Markdown; the deployed pages themselves need no runtime dependencies. Checklist progress stays in the browser's local storage.
+Open index.html, or run `python3 -m http.server 8000` and visit http://localhost:8000. docs/index.md is the research source; docs/index.html is its static published version. Keep both synchronized; no runtime dependencies are required. Checklist progress stays in the browser's local storage.
 
 ## Assignment evidence
 Complete: source-linked research and documentation. Thoughtful: alternatives and explained decisions. Checked: actual recorded source/static checks plus outstanding reviewer retry. Understood: student must explain the implementation and evidence before submission; this is not certified by AI.

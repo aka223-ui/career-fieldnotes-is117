@@ -12,3 +12,11 @@ Current files remove personal eligibility assessments and full reflective prose.
 
 ## Browser verification
 Initial site layout, checklist counter and role disclosure were browser-checked during creation. Revised production browser checks must be recorded separately after publication; no new user-test result is claimed here.
+
+## Published verification — November 12, 2026
+- Pages build [43240472324](https://github.com/aka223-ui/career-fieldnotes-is117/actions/runs/43240472324) succeeded for d929f9d.
+- Browser opened https://aka223-ui.github.io/career-fieldnotes-is117/ and followed its research link to /docs/ successfully.
+- Checked one checklist control: counter changed from 0/6 to 1/6, stayed checked after reload, and returned to 0/6 after unchecking.
+- Opened Palantir disclosure and observed the blocked/unverified status. Documentation showed the source ledger and finding/decision/check tables.
+- Static checks passed for HTML titles, internal fragment links, six checklist controls and removal of personal eligibility assertions. No new mobile viewport or human usability test is claimed.
+- Student accuracy review, manual Palantir source check, reviewer retry and Canvas submission remain pending.
