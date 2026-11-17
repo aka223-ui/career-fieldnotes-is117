@@ -66,3 +66,58 @@ Before submission the student should explain: how checklist state persists; why 
 
 ## Reference comparison
 The other student's repository was used as a structural example, not as evidence of this student's work. Coverage includes research question, source ledger, comparison, evidence/assumptions, decisions/checks, internship research, skills, alternatives, AI disclosure and reviewer check. Their roles, personal reflections, internship sample and test results were not copied.
+
+## 2. Plan — Portfolio / November 17, 2026
+
+### Reader, goal and Research link
+Primary reader: a recruiter scanning student work for an early-career software opportunity. The learner chose projects-first; professional direction remains customer-facing software, supported by class-project experience rather than claimed employment. Goal: let a reader find a relevant project, inspect the individual contribution and checks, then open professional materials. Existing career Research remains above; no second Research submission is proposed. Personal reflection and eligibility stay private in Canvas.
+
+Research → decision → check: the November 12 Amazon source describes collaboration, code review and documentation, so case studies will link concrete changes and checks. The supplied Palantir research suggests customer/stakeholder work, but independent retrieval was blocked; it is not treated as verified hiring evidence. A peer will identify a project's user problem, personal contribution and supporting commit before receiving an explanation. Role availability has not been rechecked for this Plan.
+
+### Brand and honest persuasion
+Carry forward Career Fieldnotes, “Where business meets technology,” the dark green/cream palette, Georgia-style editorial headings, readable sans-serif body text, restrained borders, circular CF mark and CSS orbit illustration already on the site. Keep the same identity in both options. Proposed compact brand promise: “Make my student work, decisions and checks easy to inspect.” Proposed archetype: Creator; voice: curious, clear, honest. These are AI-drafted planning terms, not professional credentials or a claim of audience validation.
+
+Authority: project links, dated checks and individual-contribution notes offer inspectable evidence of competence; label course work and AI assistance and do not imply seniority, employment or hiring success. Reciprocity: a short problem → decision → check process note offers useful guidance before asking a reader to explore profiles. Neither mechanism has a measured persuasion effect. No invented endorsements, employer logos implying affiliation, testimonials or performance claims.
+
+### Two concise approaches
+A — Projects first (selected): concise introduction and shared professional navigation → T-shirt and group case studies → contribution/evidence → résumé/profiles → career research and process notes. It prioritizes the recruiter's evidence-finding task. Risk: brief context may need expansion for a reader unfamiliar with the coursework.
+
+B — Introduction first (comparison): same concise introduction and shared professional navigation → learning direction/process note → résumé/profiles → the same two case studies and contribution evidence → research. It gives more context before the work. Risk: a scanning recruiter may take longer to reach project evidence.
+
+Both options contain the same project facts, hero copy, professional destinations, visual tokens and main action, “Explore my projects.” Change only content order. Hold the comparison task steady: find the T-shirt project, identify my group contribution, and locate the résumé and profiles. A is selected because the learner chose a recruiter reader and projects-first order; its benefit is a hypothesis to test, not a measured speed or hiring improvement. The existing research-led homepage is the current prototype, not either completed future option.
+
+### Professional destinations in both options
+| Material | Destination | Current status / check |
+|---|---|---|
+| Own GitHub profile | [aka223-ui](https://github.com/aka223-ui) | Authenticated account verified during project work; open the profile and confirm correct owner before final submission. |
+| Own LinkedIn profile | [LinkedIn](https://www.linkedin.com/in/abhinav-anipeddi-960254447/) | Exact URL supplied by learner November 17. Profile content/ownership not independently inspected; learner confirms the signed-out destination. |
+| Portfolio repository (1 of 3) | [career-fieldnotes-is117](https://github.com/aka223-ui/career-fieldnotes-is117) | Existing individual portfolio source. |
+| T-shirt repository (2 of 3) | [is117-brand-studio-1](https://github.com/aka223-ui/is117-brand-studio-1) | Existing individual T-shirt source; [prototype](https://aka223-ui.github.io/is117-brand-studio-1/). |
+| Shared group repository (3 of 3) | Pending exact shared repository URL | Learner must supply URL, group prototype and actual personal contribution. Show “Group project: link pending” until available; do not guess an owner or invent a link. |
+| Readable résumé | Planned /resume.html with optional downloadable PDF | Résumé content/file not supplied. Plan a readable HTML version with headings and selectable text; no fake résumé or dead download button. |
+
+Keep GitHub, LinkedIn, résumé and all three source-repository destinations in both page options. Pending destinations remain text status, not placeholder links that appear complete. Use the provided LinkedIn URL verbatim; a sign-in wall is an access limitation, not proof of a bad URL. A professional contact route may use LinkedIn; do not publish a private email without the learner providing one for that purpose.
+
+### Stories, essential features and observable checks
+S1 — Find relevant work. As a recruiter, I want two clearly labeled course-project case studies so I can inspect practical work. F1: T-shirt and group cards with user/problem, actual progress, prototype and repository destinations. Check: in both options, a peer opens the T-shirt site and correct source repo, locates the group card and distinguishes planned from implemented work. Final group-link acceptance remains blocked until its URL is supplied. Planned, not passed.
+
+S2 — Understand ownership. As a reviewer, I want personal work separated from team outcomes so I know what the student contributed. F2: “My contribution,” AI assistance, decision/change links and dated checks in each case study. Check: the peer names one actual personally owned group feature and a supporting issue/commit, without coaching. No group contribution is claimed until the learner supplies evidence. Planned, not passed.
+
+S3 — Continue professional review. As a recruiter, I want the student's actual GitHub, LinkedIn and readable résumé so I can review the same professional story. F3: consistent professional navigation in A/B, exact supplied profile URLs and planned HTML résumé/PDF destination. Check: follow profile links and confirm identity; read the résumé without downloading; test PDF text selection and matching content if a PDF is added. While résumé is missing, show “Résumé pending” rather than a broken link. Final acceptance is pending actual résumé and learner profile confirmation.
+
+S4 — Trace all project sources and decisions. As a technical reviewer, I want the portfolio, T-shirt and shared group repositories plus a decision trail so I can inspect the work. F4: explicit source links for all three projects and process-record/issue/change/verification links. Check: click all three and confirm each project's identity, then trace one issue to the response, code/documentation change and actual check. Keep unimplemented work and missing reviewer retry open. Two individual repository destinations are known; third remains blocked.
+
+S5 — Use and understand either option. As a keyboard or phone reader, I want readable pages and clear status labels so I can review evidence without getting lost. F5: semantic headings, visible focus, descriptive links, accessible navigation and responsive cards. Check: complete the same task by keyboard in A/B; inspect 375px viewport for page-wide overflow; ask the peer to explain who the site serves, what is demonstrated and what remains planned. Do not call automated checks a full accessibility or human-understanding result. Planned, not passed.
+
+### Scope, states and sequence
+Essential: F1–F5. Reuse the static HTML/CSS/JavaScript architecture; no backend or checkout is needed for the portfolio. First collect résumé/group details; write short honest case studies; implement A/B using shared content/styles; test links and readability; record a real peer change/retest; select the launch version. States: working destination, clearly pending material, unavailable external page, and revised/retested evidence. Do not create empty résumé/profile pages, claim a finished group product early, or copy fictional example credentials.
+
+Defer animations, analytics, blog platform, AI chatbot, contact database and extra reference-site research. Group work can show its actual goal/progress during portfolio Build; update the same case study when the later group milestone is complete.
+
+### Feedback, response and retest record
+[Existing peer issue #1](https://github.com/aka223-ui/career-fieldnotes-is117/issues/1) questioned unclear source verification. Decision: implement provenance clarification and investigate blocked Palantir access; [documentation/code change](https://github.com/aka223-ui/career-fieldnotes-is117/commit/d929f9d59fc68d5f353e43bdc28c91dadb348515) and [production-check response](https://github.com/aka223-ui/career-fieldnotes-is117/issues/1#issuecomment-6826841385) are linked. That response records AI browser checks, not a peer retest. Reviewer retry and manual Palantir verification remain pending.
+
+[Plan issue #2](https://github.com/aka223-ui/career-fieldnotes-is117/issues/2) tracks this milestone. No completed Portfolio Plan peer walkthrough or attendance/participation is evidenced here. Review request: ask a classmate to explain S3 or S4, inspect the destinations, and post a specific question/gap in GitHub. Then record their name/date, actual observation, implement/investigate/defer/decline decision with reason, linked change and actual retest. Do not fabricate review results or close unfinished issues. A GitHub record does not submit Canvas coursework.
+
+### Assistance and remaining inputs
+ChatGPT inspected the current repository, course Portfolio Plan example/checklist and incoming feedback; drafted this Plan, preserved existing Research and prepared technical checks. The learner chose recruiter/projects-first and supplied the LinkedIn URL. Résumé, group repository/prototype, actual group contribution and portfolio-specific peer review remain pending. Professional materials and complete A/B implementations are planned, not claimed finished. No new career role facts or personal eligibility claims were added.
