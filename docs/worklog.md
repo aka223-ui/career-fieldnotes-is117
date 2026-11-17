@@ -27,3 +27,5 @@ Initial site layout, checklist counter and role disclosure were browser-checked 
 - Known destinations: GitHub, supplied LinkedIn, portfolio and T-shirt repos. Résumé/group destination/contribution are pending rather than invented.
 - No portfolio Plan peer retry or attendance evidence is claimed; issue #1 stays open for its actual outstanding verification. Professional-material checks and A/B implementation remain future work.
 - Preparation checks passed: local HTML links/fragment targets and titles, five story markers, exact supplied LinkedIn destination and git diff whitespace. These are static checks, not profile-ownership verification, résumé review, future A/B acceptance tests or human retest.
+
+- Production review: Plan reached /docs/#plan and displayed required destination links. Browser inspection caught overlong rendered headings; corrected the HTML paragraph boundaries before final verification. External profile content and pending résumé/group materials are still not claimed checked.
