@@ -20,3 +20,10 @@ Initial site layout, checklist counter and role disclosure were browser-checked 
 - Opened Palantir disclosure and observed the blocked/unverified status. Documentation showed the source ledger and finding/decision/check tables.
 - Static checks passed for HTML titles, internal fragment links, six checklist controls and removal of personal eligibility assertions. No new mobile viewport or human usability test is claimed.
 - Student accuracy review, manual Palantir source check, reviewer retry and Canvas submission remain pending.
+
+## November 17, 2026 — Portfolio Plan / issue #2
+- Decision: recruiter reader and projects-first selected by learner; compare introduction-first with identical content/style/professional destinations.
+- Change: append Plan to docs/index.md and docs/index.html; link it and supplied professional profiles from homepage; update README/submission records. Five stories cover projects, ownership, résumé/profiles, all three repositories and accessibility.
+- Known destinations: GitHub, supplied LinkedIn, portfolio and T-shirt repos. Résumé/group destination/contribution are pending rather than invented.
+- No portfolio Plan peer retry or attendance evidence is claimed; issue #1 stays open for its actual outstanding verification. Professional-material checks and A/B implementation remain future work.
+- Preparation checks passed: local HTML links/fragment targets and titles, five story markers, exact supplied LinkedIn destination and git diff whitespace. These are static checks, not profile-ownership verification, résumé review, future A/B acceptance tests or human retest.

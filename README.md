@@ -26,3 +26,8 @@ Open index.html, or run `python3 -m http.server 8000` and visit http://localhost
 
 ## Assignment evidence
 Complete: source-linked research and documentation. Thoughtful: alternatives and explained decisions. Checked: actual recorded source/static checks plus outstanding reviewer retry. Understood: student must explain the implementation and evidence before submission; this is not certified by AI.
+
+## Portfolio Plan — November 17, 2026
+[Plan in the same public record](https://aka223-ui.github.io/career-fieldnotes-is117/docs/#plan) · [Plan issue #2](https://github.com/aka223-ui/career-fieldnotes-is117/issues/2).
+
+Recruiters/projects-first was selected. The Plan compares two content orders, preserves visual choices, proposes authority/reciprocity through real work and useful process notes, and defines five stories with checks. Both options include actual profile destinations and all three project-source destinations; résumé and group URL/contribution are explicitly pending. LinkedIn was supplied by the learner; external profile contents were not independently verified. Research is retained; no second Research submission is required. A/B implementation and real peer review/retest remain pending.
